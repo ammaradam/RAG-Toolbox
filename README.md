@@ -36,3 +36,8 @@ streamlit run app.py
 Application will be opened in a browser.
 
 **Done!**
+
+<br>
+<br>
+
+***Credit to [Akshay](https://x.com/akshay_pachaar/status/1783114332471279712) for inspiration!***
