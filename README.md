@@ -1,4 +1,4 @@
-# ChatDocs
+# RAG Toolbox
 
 Let's chat with your documents!
 
