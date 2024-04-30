@@ -1,5 +1,7 @@
 # RAG Toolbox
 
+![alt text](assets/ui.png "Basic demo RAG on your PDF document")
+
 Let's chat with your documents!
 
 ### **Tech Stacks**

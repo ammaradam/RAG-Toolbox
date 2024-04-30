@@ -77,9 +77,10 @@ if prompt := st.chat_input("What's up?"):
 # sidebar component
 with st.sidebar:
     st.button(
-        label="New chat :repeat:",
+        label="Clear chat :broom:",
         on_click=reset_chat,
-        use_container_width=True
+        use_container_width=True,
+        type='primary'
     )
 
     st.markdown("# Add your documents!")
